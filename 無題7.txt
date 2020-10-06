@@ -5,3 +5,5 @@ git clone https://github.com/kyou240/simline2test.git
 AAAA
 BBBB
 CCCC
+DDDD
+EEEE
